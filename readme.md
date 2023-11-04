@@ -11,7 +11,7 @@ Abra o WhatsApp Web em seu navegador e faça o login na sua conta.
 
 Pressione F12 ou Ctrl+Shift+I (ou Cmd+Option+I em Mac) para abrir o console de desenvolvimento do navegador.
 
-Na guia do console, cole o  código JavaScript enviarMensagensEmSequencia.js.
+Na guia do console, cole o  código JavaScript [enviarMensagensEmSequencia.js](https://github.com/Victor-vrg/Spam-mensagens/blob/master/enviarMensagensEmSequencia.js).
 
 Após colar o código no console,  mude o texto a ser enviado e o numero de vezes a ser repetido no console!!
  >**enviarMensagensEmSequencia("insira o texto aqui!!!!!", 20)**
