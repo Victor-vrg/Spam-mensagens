@@ -13,9 +13,8 @@ Pressione F12 ou Ctrl+Shift+I (ou Cmd+Option+I em Mac) para abrir o console de d
 
 Na guia do console, cole o  código JavaScript enviarMensagensEmSequencia.js.
 
-Após colar o código mude o texto a ser enviado e o numero de vezes a ser repetido!
- **enviarMensagensEmSequencia("insira o texto aqui!!!!!", 20)**
+Após colar o código no console,  mude o texto a ser enviado e o numero de vezes a ser repetido no console!!
+ >**enviarMensagensEmSequencia("insira o texto aqui!!!!!", 20)**
 
-pressione Enter para executá-lo. Ele carregará as funções no console.
+pressione Enter para executá-lo. 
 
-Agora você pode usar as funções para enviar mensagens. Por exemplo, para enviar "acessa lá acessa lá" 10 vezes, você pode executar o seguinte comando no console:
